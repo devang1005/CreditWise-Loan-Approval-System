@@ -21,3 +21,4 @@ This system uses historical loan data to provide fast, accurate, and unbiased lo
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+##Demo - https://loan-approved-system.streamlit.app/
