@@ -16,9 +16,12 @@ This system uses historical loan data to provide fast, accurate, and unbiased lo
 - Scikit-learn
 - Pandas, NumPy
 - Streamlit
+## Host 🚀 
+- https://loan-approved-system.streamlit.app/
+
 
 ## 🚀 How to Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-##Demo - https://loan-approved-system.streamlit.app/
+
